@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Biography**
+
+I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at School of Information Engineering, Nanchang University. (Wechat: rxsy2003)
+
+My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and productivity by better understanding brain science, neuroscience, and life science.
+
+I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on 
+
 
 A data-driven personal website
 ======
