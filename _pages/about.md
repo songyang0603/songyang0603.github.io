@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "About me（Update in 6.2）👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Biography**
 
 I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at School of Information Engineering, Nanchang University. (Wechat: rxsy2003)
 
