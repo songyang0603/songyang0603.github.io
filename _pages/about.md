@@ -11,7 +11,7 @@ I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Ar
 
 My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
-I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and productivity by better understanding brain science, neuroscience, and life science.
+I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
 
 I was honored to be advised by [Professor Qiegen Liu]([https://github.com/yqx7150](https://github.com/yqx7150/yqx7150.github.com)) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
 
