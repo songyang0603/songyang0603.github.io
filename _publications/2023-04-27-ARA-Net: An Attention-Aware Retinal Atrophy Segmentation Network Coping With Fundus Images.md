@@ -6,8 +6,7 @@ excerpt: 'In this paper, An attention-aware retinal atrophy segmentation network
 date: 2023-04-27
 venue: 'Frontiers in Neuroscience'
 paperurl: 'https://doi.org/10.3389/fnins.2023.1174937'
-citation: 'Chen Lei, Zhou Yuying, Gao Songyang, Li Manyu, Tan Hai, Wan Zhijiang.ARA-net: an attention-aware retinal atrophy segmentation network coping with fundus images. Frontiers in Neuroscience, 2023, 17: 1174937.[https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1174937](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1174937)
-'
+citation: 'Chen Lei, Zhou Yuying, Gao Songyang, Li Manyu, Tan Hai, Wan Zhijiang.ARA-net: an attention-aware retinal atrophy segmentation network coping with fundus images. Frontiers in Neuroscience, 2023, 17: 1174937.[https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1174937](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1174937).'
 ---
 
 ## Abstract
