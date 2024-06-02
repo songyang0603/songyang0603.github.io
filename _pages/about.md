@@ -58,9 +58,9 @@ Professor Name: **Matei Ripeanu** <br>
 Host University: **University of British Columbia – Vancouver**
 -->
 
-## Won the Best Poster Award of the 6th Computational Imaging Technology and Application Seminar (2024), May 19, 2024
+## Won the Best Poster Award of the 6th Symposium on Computational Imaging Technology and Applications (2024), May 19, 2024
 
-Our paper **"DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"**(扩散模型增强的多平面外推数字全息图像重建 in Chinese) was accepted and awarded the **best poster award** by [the 6th Computational Imaging Technology and Application Seminar (2024)](https://mp.weixin.qq.com/s/OuR-H1_foPEXtUggued1Hg)
+Our paper **"DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"**(扩散模型增强的多平面外推数字全息图像重建 in Chinese) was accepted and awarded the **best poster award** by [the 6th Symposium on Computational Imaging Technology and Applications (2024)](https://mp.weixin.qq.com/s/OuR-H1_foPEXtUggued1Hg)
 
 
 
