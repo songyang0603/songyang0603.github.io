@@ -16,7 +16,6 @@ I also focus on AI for science, hoping to make the development of artificial int
 I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
 
 # NEWS
-
 ## Paper is on the way
 
 Our paper ["DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"]() is under peer review on May 25th, 2024.
