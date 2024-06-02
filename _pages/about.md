@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me（Update in 6.2）👋"
+title: "About me（Update in 2024.06.03）👋"
 author_profile: true
 redirect_from: 
   - /about/
