@@ -28,13 +28,25 @@ Our paper ["DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital 
 
 Our paper **"DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"**(扩散模型增强的多平面外推数字全息图像重建 in Chinese) was accepted and awarded the **best poster award** by [the 6th Symposium on Computational Imaging Technology and Applications (2024)](https://mp.weixin.qq.com/s/OuR-H1_foPEXtUggued1Hg)
 
+## Won the Outstanding Academic Correspondent in CAAI Transactions on Intelligence Technology, May 14, 2024
+
+I passed the screening and entered the editorial department of the CAAI Transactions on Intelligence Technology for internship on January 1, 2024. I completed more than five months of internship and was named an outstanding academic correspondent.
+
 ## Paper accepted by the Photonics, April, 2024
 
 Our paper ["HoloDiffusion: Sparse Digital Holographic Reconstruction via Diffusion Modeling"](https://www.mdpi.com/2304-6732/11/4/388/pdf?version=1713851060) is accepted by the [Photonics](https://www.mdpi.com/journal/photonics).
 
+## Start internship at the winter camp of Institute for AI Industry Research, Tsinghua University, January 15, 2024
+I am doing my research at THU under the supervision of [Yan Wang](https://yanwang202199.github.io/).
+
+Our research topics are weather scene generation and editing based on stable diffusion.I completed the winter camp on March 15, 2024.
+
 ## Paper accepted by the Applied Physics Letters, January, 2024
 
 Our paper ["Imaging through scattering media via generative diffusion model"](https://web.archive.org/web/20240210143748id_/https://watermark.silverchair.com/051101_1_5.0180176.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABYgwggWEBgkqhkiG9w0BBwagggV1MIIFcQIBADCCBWoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM5sBidvCq11tqmR66AgEQgIIFO5BFZkMdHAwLHQ3Wu3V_WECXeG0pO2KhyJhUruXFRI3geUo54KNmxLRrVZTteP_zLHMlxaXdxDFM0oKlFFD4zjcC3mnYI2iv6g-YpYN6gJW-UB2goj1D89P8H0LmfBxETe7M9uPx3wVwc6hlMUlc4ScKourMFWivSmt787WL9-RhULKFH6SR2B9LTvKDcML9kNIfUCaRMfviJjGOvSLyryzY60RoakNznUrpwyZO8ZfYC_QqWpNGpKMM9-8qpThK1lGbN-og_54Ut-q_tR3faT4MYwVitDGqirzmsVdZHbff5y_P6CH00wKFWP2FYfVyHcBxu7NeSpRWy9HjMVQo9JHEKnH0i443WrmfNzG8CSScjb3nhx1Wp2Mpf-pauZcl9aN5AJ1L8HOGiuOo3-5ZRot21raog0GahsAspXS76bMcRMUQHC4X1XLFrbj58tHd2rF5opBjeHV3Wc_WLvRxgzf7FBrUEJp_YrVikezPZRPUWEAgK7ounkkpbHs41Ph3GgTi-98dUxMmLtf5HYxfLdxTPB-uihYL1-fjKp7OZUEIHLyrsTNlfyBEwNq42WvoU1jcYv3jugABRyDLmY8UkG4sdBZ-GA7fJ0iySBBPg8dTgDw_mgxBTfMOd_gYaV1zqogSTpisCMx_-ClUh-V0UwAlxlxy8htbQN_H6At043Db9RpPela77V1NtvQ1fmE4VYU3NfYl5M9_UAuupqF498oQNO0Ekdxlhq1cY1aU_8tXuXT4TBpTcsIoMFmDvcSRj353MDVkJHlp0ZBhsbuOMA6dRA04pU-NzWXsRDKy2iABdp2Rh4hWrll0nu5RmkgO6jt71A7TijX9HC95geSVEdYavdUYChkk4fnFA7x0q7D-8gzZW0GVB-L9bCeiv3fe537GmhKRn0HqkE4FALkDsfvDUHZ0pbJ1htbKvzJGXftqAmyonRguqOnDMLAV3bRNavgqvwdepyZLS-ZM855gtmDtw6NpEeuXY3nNt3aaK27HMqbqpFOUoJtjZ9Lg0GPPGYbdCw3rnCzFdgIt2n7lR274MIJ0ks2MaXFI34hBBsbt4nbRudqRF97itYATePj1zav71S5Z3g2stAwUnQ7ybfbbjj2EAu8ePnOPTJK11M6JiUjQbJpS4x_7gCEvpTMr-VYCgBMry25nnOaLY1kvVIBtvBBeDj4MN0Q6pYQ1__VmM8uZrTkEhfzd-vOzQ7CAhu7jmVvmGMy8P0GJ6p_ESXhXQKSet0-uQ8qISpUa7dKzMY3N_0W9NJxtMqO5iqs0MpdnPF8IqnY1LcrT5mJ8eYXraC68AaULO6PBBukvKxDg2gnmTYSACAzUzfdu6VzDwN7btUNpLBjuSrbKCAXahWZHqEdD-vHaYt96L-J7abFZH99Ig3sPcDnGyxRchLy9tiqBMGjloGcwodDh1qoAVaFixpT243c1b1hWgJYk0xFQp5ibnTWwWj2dePHhIdCcwvakfGNeXh-7W7bU0iebhnRNzkVEtNUkQ6hG1gV3A0ynjisOPxCmmtTnnjKGLveDO3I4qs2BIWSCry9MqL3BxwVdl3mFoyuL5ixPSBTAllaYU_5w9XCA2u_QT87g0nMT8yPTcH3hcmviCE21drADz6Xw9q2rW8zH5QL9h4kmevdgVnGKUQP_qt99-v7NcL31HLjtE_i1C1vMZu9QUFgh2mk5YZ0RZ3aTJcFls6T-wr2WLe9dLjxGHw4o71MVUuBcCNLHTEgTJIwGDNbMfcwQfyHhYjfGVQ1W-bYwPTrXreg--QapaD0vLFX6WnE) is accepted by the [Applied Physics Letters](https://pubs.aip.org/aip/apl).
+
+## Won Huawei "Smart Base" Scholarship, December, 2023
+I won the Huawei “Smart Base” Scholarship (ratio: 0.3%) and was named the Ministry of Education-Huawei “Smart Base” Future Star.
 
 ## Paper accepted by the Frontiers in Neuroscience, April, 2023
 
