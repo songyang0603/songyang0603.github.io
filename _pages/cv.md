@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Looking for Ph.D opportunities, 2025 (expected)
+* B.S. in Artificial Intelligence, Nanchang University, 2022
+| In September 2022, I was selected as a candidate for the artificial intelligence experimental class with a ranking of 13/198 in the overall quality of computer science and passed the interview. (About 5%)
+* B.S. in Computer Science, Nanchang University, 2021
 
 Work experience
 ======
@@ -46,7 +47,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
