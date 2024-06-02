@@ -1,5 +1,5 @@
 ---
-title: "HoloDiffusion: Sparse Digital Holographic Reconstruction via Diffusion Modeling (co-first author)"
+title: "HoloDiffusion: Sparse Digital Holographic Reconstruction via Diffusion Modeling (JCR-Q3, co-first author)"
 collection: publications
 permalink: /publication/2024-04-21-HoloDiffusion Sparse Digital Holographic Reconstruction via Diffusion Modeling.md
 excerpt: 'An image reconstruction method is proposed that combines physical constraint characteristics of the imaging object with a score-based diffusion model, aiming to enhance the imaging accuracy of digital holography technology with extremely sparse sensor arrays.'
