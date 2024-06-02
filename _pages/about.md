@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at School of Information Engineering, Nanchang University. (Wechat: rxsy2003)
+I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). (Wechat: rxsy2003)
 
 My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
