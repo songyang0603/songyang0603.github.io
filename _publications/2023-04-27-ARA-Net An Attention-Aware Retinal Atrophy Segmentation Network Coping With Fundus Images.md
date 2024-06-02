@@ -1,7 +1,7 @@
 ---
 title: "ARA-Net: An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Images"
 collection: publications
-permalink: /publication/2023-04-27-ARA-Net: An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Image
+permalink: /publication/2023-04-27-ARA-Net An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Image
 excerpt: 'In this paper, An attention-aware retinal atrophy segmentation network (ARA-Net) is proposed to segment retinal atrophy areas from the 2D fundus image.'
 date: 2023-04-27
 venue: 'Frontiers in Neuroscience'
