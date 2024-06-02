@@ -32,6 +32,7 @@ Research experience
 Honors and Awards
 ======
 > **15** awards at the **provincial level or above** in competitions such as artificial intelligence, mathematical modeling, innovation and entrepreneurship (including **6 national-level awards** and 3 awards for the only winning team in the school)
+
 * Best Poster Award of the 6th Symposium on Computational Imaging Technology and Applications (First Author), May, 2024
 * Bronze Award in the 14th Challenge Cup College Student Entrepreneurship Plan Competition (Team Captain), April, 2024
 * First prize in the fifth Global Campus Artificial Intelligence Algorithm Elite Competition (Team Captain), December, 2023
