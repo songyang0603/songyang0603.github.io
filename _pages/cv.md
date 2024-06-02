@@ -16,31 +16,18 @@ Education
 > In September 2022, I was selected as a candidate for the artificial intelligence experimental class with a ranking of 13/198 in the overall quality of computer science and passed the interview. (About 5%)
 * 2021.09 - 2022.09, Computer Science, Nanchang University.
 
+Scholarships
+======
+* Huawei “Smart Base” Scholarship, December, 2023
+* Huawei “Smart Base” Scholarship, December, 2022
+* Nanchang University First Prize Scholarship, September, 2022
+
 Research experience
 ======
 * October 2022 - Present: Research intern
   * Nanchang University
   * Explored the role of diffusion models in computational imaging (such as digital holographic imaging and scattering medium imaging), aiming to improve the quality of image reconstruction by extracting prior information.The proposed method can improve the quality of digital holographic image reconstruction while saving the cost of optical devices.
   * Advisors: [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/)
-
-<!--
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
--->
 
 Honors and Awards
 ======
@@ -55,12 +42,7 @@ Honors and Awards
 * First Prize in the 13th MathorCup College Mathematical Modeling Challenge (Team Captain), May, 2023
 * First Prize in the Big Data Competition at the 3rd MathorCup College Mathematical Modeling Challenge, March, 2023
 * First Prize of the 3rd Jiangxi Province Student Artificial Intelligence Science and Technology Competition (Team Captain), November, 2022
-
-Scholarships
-======
-* Huawei “Smart Base” Scholarship, December, 2023
-* Huawei “Smart Base” Scholarship, December, 2022
-* Nanchang University First Prize Scholarship, September, 2022
+* ...
 
 Publications
 ======
@@ -113,6 +95,24 @@ Skills
 * Computer Vision: Proficient in using the PyTorch framework, with the ability to reproduce mainstream deep learning algorithms such as diffusion models.
 * Tool: competent in Visio, Docker, Git.
 
+<!--
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+-->
 
 <!--
 Talks
