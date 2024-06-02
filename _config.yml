@@ -21,12 +21,12 @@ repository               : "songyang0603/songyang0603.github.io" # "academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pro.jpg"
   name             : "Songyang Gao" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Nanchang University"
   uri              : # URL
   email            : "gaosongyang@email.ncu.edu.cn" 
 
