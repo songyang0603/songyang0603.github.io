@@ -21,7 +21,7 @@ I was honored to be advised by [Professor Qiegen Liu]([https://github.com/yqx715
 
 Our paper ["DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"]() is under peer review on May 25th, 2024.
 
-/*
+<!--
 ## Won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities, December 13, 2023
 
 My final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing University of Posts and Telecommunications and Beijing Ordinary Higher Educational Institutions under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
@@ -57,7 +57,7 @@ I have been matched with the following project: <br>
 Project Title: Massive-scale Graph Processing <br>
 Professor Name: **Matei Ripeanu** <br>
 Host University: **University of British Columbia – Vancouver**
-*/
+-->
 
 ## Won the Best Poster Award of the 6th Computational Imaging Technology and Application Seminar (2024), May 19, 2024
 
@@ -65,7 +65,7 @@ Our paper **"DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital
 
 
 
-/*
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -105,5 +105,4 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-
-*/
+-->
