@@ -13,7 +13,7 @@ My research interests lie in generative artificial intelligence algorithms and t
 
 I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
 
-I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
+I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
 
 # NEWS
 
