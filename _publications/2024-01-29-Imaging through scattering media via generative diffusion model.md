@@ -1,5 +1,5 @@
 ---
-title: "Imaging through scattering media via generative diffusion model"
+title: "Imaging through scattering media via generative diffusion model (JCR-Q2, Third author)"
 collection: publications
 permalink: /publication/2024-01-29-Imaging through scattering media via generative diffusion model
 excerpt: 'An approach is proposed for achieving high-quality reconstructed target images through scattering media using a diffusion generative model.'
