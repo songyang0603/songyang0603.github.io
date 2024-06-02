@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Looking for Ph.D opportunities, 2025 (expected)
-* B.S. in Artificial Intelligence, Nanchang University, 2022
+* 2025.09(expected), Looking for Ph.D opportunities
+* 2022.09 - 2025.06(expected), Artificial Intelligence, Nanchang University.
 > In September 2022, I was selected as a candidate for the artificial intelligence experimental class with a ranking of 13/198 in the overall quality of computer science and passed the interview. (About 5%)
-* B.S. in Computer Science, Nanchang University, 2021
+* 2021.09 - 2022.09, Computer Science, Nanchang University.
 
 Work experience
 ======
