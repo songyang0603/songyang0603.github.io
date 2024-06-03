@@ -6,7 +6,7 @@ excerpt: 'An image reconstruction method is proposed that combines physical cons
 date: 2024-04-21
 venue: 'Photonics'
 paperurl: 'https://www.mdpi.com/2304-6732/11/4/388/pdf?version=1713851060'
-citation: 'Zhang L, Gao S, Tong M, Huang Y, Zhang Z, Wan W, Liu Q. HoloDiffusion: Sparse Digital Holographic Reconstruction via Diffusion Modeling. Photonics. 2024; 11(4):388. https://doi.org/10.3390/photonics11040388'
+citation: 'Zhang L, Gao S, Tong M, Huang Y, Zhang Z, Wan W, Liu Q. HoloDiffusion: Sparse Digital Holographic Reconstruction via Diffusion Modeling. Photonics. 2024, 11(4):388. https://doi.org/10.3390/photonics11040388'
 ---
 
 ## Abstract
