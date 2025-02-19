@@ -20,7 +20,7 @@ I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150
 Let's be passionate!
 
 # NEWS
-## Won the Baosteel Outstanding Student Award Special Prize (only 15 winners nationwide), November, 2024
+## Won the Baosteel Scholarship Special Prize (only 15 winners nationwide), November, 2024
 
 [Click here](https://mp.weixin.qq.com/s/X6RunAgPC3aOYGYXp381wQ) to read the official report.
 
