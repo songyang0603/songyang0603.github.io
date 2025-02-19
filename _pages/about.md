@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to the Hong Kong University of Science and Technology (Guangzhou) to pursue Master of Philosophy in September 2025. I am looking for research internship and Ph.D opportunities now. (Wechat: rxsy2003)
+I am currently a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/) to pursue [Master of Philosophy](https://vptlo.hkust-gz.edu.cn/rbm/) in September 2025. I am looking for research internship and Ph.D opportunities now. (Wechat: rxsy2003)
 
 My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
