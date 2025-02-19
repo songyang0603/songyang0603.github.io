@@ -5,8 +5,8 @@ permalink: /publication/2024-08-19-DMEDH diffusion model-boosted multiplane extr
 excerpt: 'To attain high-quality image reconstruction, a diffusion model-boosted multiplane extrapolation for digital holographic reconstruction (DMEDH) algorithm is proposed.'
 date: 2024-08-19
 venue: 'Optics Express'
-paperurl: 'https://doi.org/10.1364/OE.531147'
-citation: 'Gao S, Xv W, Wu X, Liu J, Wang B, Wu T, Wan W, Liu Q. DMEDH: diffusion model-boosted multiplane extrapolation for digital holographic reconstruction. Optics Express. 2024, 32(18):31920-31938. https://opg.optica.org/oe/viewmedia.cfm?uri=oe-32-18-31920&seq=0'
+paperurl: 'https://opg.optica.org/oe/viewmedia.cfm?uri=oe-32-18-31920&seq=0'
+citation: 'Gao S, Xv W, Wu X, Liu J, Wang B, Wu T, Wan W, Liu Q. DMEDH: diffusion model-boosted multiplane extrapolation for digital holographic reconstruction. Optics Express. 2024, 32(18):31920-31938. https://doi.org/10.1364/OE.531147'
 ---
 
 
