@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me（Update in 2024.06.03）👋"
+title: "About me（Update in 2025.02.19）👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -134,5 +134,3 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 -->
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KKPhQ-LXT8mek63h4Oa8BltFlbFsTTwZkLrrWb3wFEs&cl=ffffff&w=a"></script> <style> /* Refined styling to match your existing design */ .research-areas { background: #f8f9fa; padding: 25px; border-radius: 12px; margin: 20px 0; } .research-item { background: white; padding: 20px; margin: 15px 0; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; align-items: flex-start; } .research-icon { font-size: 24px; margin-right: 15px; } .research-content h3 { margin: 0 0 10px 0; font-size: 1.2em; color: #333; } .research-content p { margin: 0; color: #666; line-height: 1.5; } </style> <script> document.addEventListener('DOMContentLoaded', (event) => { document.body.style.opacity = '0'; setTimeout(() => { document.body.style.opacity = '1'; }, 100); }); </script>
