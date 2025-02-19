@@ -18,7 +18,7 @@ Education
 
 Scholarships
 ======
-* Baosteel Outstanding Student Award Special Prize (only 15 winners nationwide), November, 2024
+* Baosteel Scholarship Special Prize (only 15 winners nationwide), November, 2024
 * Nanchang University First Prize Scholarship, September, 2024
 * Huawei “Smart Base” Scholarship, December, 2023
 * Huawei “Smart Base” Scholarship, December, 2022
