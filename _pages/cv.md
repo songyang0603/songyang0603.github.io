@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* 2025.09(expected), Looking for Ph.D opportunities
-* 2022.09 - 2025.06(expected), Artificial Intelligence, Nanchang University.
+* 2025.09(expected), Artificial Intelligence, HKUST(GZ)
+* 2022.09 - 2025.06(expected), Artificial Intelligence, Nanchang University
 > In September 2022, I was selected as a candidate for the artificial intelligence experimental class with a ranking of 13/198 in the overall quality of computer science and passed the interview. (About 5%)
 * 2021.09 - 2022.09, Computer Science, Nanchang University.
 
 Scholarships
 ======
+* Baosteel Outstanding Student Award Special Prize (only 15 winners nationwide), November, 2024
+* Nanchang University First Prize Scholarship, September, 2024
 * Huawei “Smart Base” Scholarship, December, 2023
 * Huawei “Smart Base” Scholarship, December, 2022
 * Nanchang University First Prize Scholarship, September, 2022
@@ -31,9 +33,10 @@ Research experience
 
 Honors and Awards
 ======
-> **15** awards at the **provincial level or above** in competitions such as artificial intelligence, mathematical modeling, innovation and entrepreneurship (including **6 national-level awards** and 3 awards for the only winning team in the school)
+> **21** awards at the **provincial level or above** in competitions such as artificial intelligence, mathematical modeling, innovation and entrepreneurship (including **9 national-level awards** and 3 awards for the only winning team in the school)
 
 * Best Poster Award of the 6th Symposium on Computational Imaging Technology and Applications (First Author), May, 2024
+* Silver Award in the China International College Student Innovation Competition, October, 2024
 * Bronze Award in the 14th Challenge Cup College Student Entrepreneurship Plan Competition (Team Captain), April, 2024
 * First prize in the fifth Global Campus Artificial Intelligence Algorithm Elite Competition (Team Captain), December, 2023
 * First Prize in the 14th Blue Bridge Cup Special Competition (Student Group), November, 2023
