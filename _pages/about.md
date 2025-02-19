@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I am expected to be recommended for graduate study and am looking for Ph.D opportunities now. (Wechat: rxsy2003)
+I am currently a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to the Hong Kong University of Science and Technology (Guangzhou) to pursue Master of Philosophy in September 2025. I am looking for research internship and Ph.D opportunities now. (Wechat: rxsy2003)
 
 My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
@@ -20,9 +20,9 @@ I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150
 Let's be passionate!
 
 # NEWS
-## Paper is on the way
+## Paper accepted by the Optics Express, August, 2024 
 
-Our paper ["DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"]() is under peer review on May 25th, 2024.
+Our paper ["DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction"](https://doi.org/10.1364/OE.531147) is accepted by the [Optics Express](https://opg.optica.org/oe/).
 
 ## Won the Best Poster Award of the 6th Symposium on Computational Imaging Technology and Applications (2024), May 19, 2024
 
