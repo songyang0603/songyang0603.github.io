@@ -1,25 +1,43 @@
 ---
 permalink: /
-title: "About me（Update in 2025.02.19）👋"
+title: "About me（Updated: 2026.03.02）👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/) to pursue [Master of Philosophy](https://vptlo.hkust-gz.edu.cn/rbm/) in September 2025. I am looking for research internship and Ph.D opportunities now.
+Hello, I am Songyang Gao, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) **(IEEE, ACM, AAAI, AAAS Fellow)**. I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
-My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
+My current research interests focus on **Agentic Systems** and **Streaming Systems**. I am researching and designing Agentic Systems for Large-Scale Data Tasks, including building a Streaming Agent Benchmark for Real-Time Data Pipelines. In addition, I am also interested in applications of Agentic Systems, such as intelligent agents for scientific research and computer use agents.
 
-I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
-
-I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
+Previously, I worked on generative AI algorithms and their applications in computational imaging and intelligent medical imaging at [LIVE Lab, Nanchang University](https://www.labxing.com/lab/1018/home), advised by [Prof. Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/).
 
 [Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
+
+**I am actively looking for Fall 2027 Ph.D. programs. Please feel free to contact me!**
+
+Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
 Let's be passionate!
 
 # NEWS
+## Paper submitted to KDD 2026, February, 2026
+
+Our paper "SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines" (Y. Xia\*, **S. Gao\***, H. Xiong, \*equal contribution) has been submitted to [KDD 2026](https://kdd2026.kdd.org/).
+
+## Participated in Singtel PIE Program, Singapore, December, 2025
+
+I had been selected to participate in the Singtel Pio-Innovation-Enterprise (PIE) Program in Singapore (Dec 7-14, 2025) as a group leader. Our team designed and proposed SmartShield, a multi-modal scam detection and prevention system via rule-LLM synergy, combining field research in Singapore with AI-driven solutions for real-world fraud prevention.
+
+## Started MPhil at HKUST(GZ), September, 2025
+
+I officially started my MPhil study in Artificial Intelligence at HKUST(GZ), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ).
+
+## Graduated from Nanchang University, June, 2025
+
+I Graduated from Nanchang University and completed my bachelor thesis with Excellent.
+
 ## Won the Baosteel Scholarship Special Prize (only 15 winners nationwide), November, 2024
 
 [Click here](https://mp.weixin.qq.com/s/X6RunAgPC3aOYGYXp381wQ) to read the official report.
