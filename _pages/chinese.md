@@ -15,6 +15,6 @@ author_profile: true
 
 联系邮箱：[sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
-[点击](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect)此处阅读我的个人成长和生活故事。
+[点击](https://songyang0603.github.io/cv/) 查看我的简历. [点击](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect)此处阅读我的个人成长和生活故事。
 
 让我们一起充满热情吧！
