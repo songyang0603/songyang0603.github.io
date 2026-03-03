@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* 2025.09(expected), Artificial Intelligence, HKUST(GZ)
-* 2022.09 - 2025.06(expected), Artificial Intelligence, Nanchang University
-> In September 2022, I was selected as a candidate for the artificial intelligence experimental class with a ranking of 13/198 in the overall quality of computer science and passed the interview. (About 5%)
-* 2021.09 - 2022.09, Computer Science, Nanchang University.
+* **M.Phil. in Artificial Intelligence**, The Hong Kong University of Science and Technology (Guangzhou), 2025.09 - 2027.06 (expected)
+  * Advisor: [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (IEEE, ACM, AAAI, AAAS Fellow)
+* **B.Eng. in Artificial Intelligence**, Nanchang University (211, Double First-Class), 2021.09 - 2025.06
+  * Ji Luan Academy, AI Experimental Class (top 5% selection)
+  * Honors: Baosteel Scholarship Special Prize (only 15 nationwide), Huawei Smart Base Scholarship ×2 (ratio: 0.3%)
 
 Scholarships
 ======
@@ -26,10 +27,15 @@ Scholarships
 
 Research experience
 ======
-* October 2022 - Present: Research intern
-  * Nanchang University
+* October 2022 - September 2024
+  * LIVE - Laboratory of Imaging and Vision Expression, Nanchang University
   * Explored the role of diffusion models in computational imaging (such as digital holographic imaging and scattering medium imaging), aiming to improve the quality of image reconstruction by extracting prior information.The proposed method can improve the quality of digital holographic image reconstruction while saving the cost of optical devices.
   * Advisors: [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/)
+
+* January 2024 - March 2024: Research Intern
+  * Institute for AI Industry Research (AIR), Tsinghua University
+  * Based on the Stable diffusion model, accurate text-guided editing is performed. The generated diverse weather scenarios are used as datasets to train models for autonomous driving tasks.
+  * Supervisor: [Yan Wang](https://yanwang202199.github.io/)
 
 Honors and Awards
 ======
@@ -56,8 +62,9 @@ Publications
 
 Invent patents
 ======
-* A Sparse Digital Holographic Image Reconstruction Method (student first author), Entered the substantive examination stage on May 24
-* A dual-channel prior-constrained multi-distance lensless digital holographic reconstruction method (student first author), in the application
+* H. Xiong, Y. Xia, **S. Gao**. "Intelligent Encapsulation and Controlled Release System for Big Scientific Data Based on Multi-Stage Workflow and Stream Computing." (Filed, 2025)
+* W. Wan, **S. Gao**, B. Wang, W. Xu, Q. Liu. "A Dual-Channel Prior-Constrained Multi-Distance Lensless Digital Holographic Reconstruction Method." ZL 2024107267996. (Student First Author, **Granted**)
+* W. Wan, **S. Gao**, Z. Zhang, W. Xu, L. Zhang, Q. Liu. "A Sparse Digital Holographic Image Reconstruction Method." ZL 202410464769.2. (Student First Author, **Granted**)
 
 National College Students Innovation and Entrepreneurship Training Program
 ======
@@ -66,6 +73,7 @@ National College Students Innovation and Entrepreneurship Training Program
 
 Academic practice
 ======
+* Group Leader, Singtel Pio-Innovation-Enterprise (PIE) Program, Singapore, December 7-14, 2025
 * Liaison officer for core journal "Telecommunication Technology", June, 2023 - Present
 * AI Researcher at the World Institute of Political Science and Technology, December, 2023 - Present
 * Student member of JiangSu Association of Artificial Intelligence (JSAI), December, 2023 - Present
@@ -73,6 +81,11 @@ Academic practice
 * Outstanding Academic Correspondent in CAAI Transactions on Intelligence Technology, January, 2024 - May, 2024
 * Internship at the winter camp of Institute for AI Industry Research, Tsinghua University, January, 2024 - March, 2024
 * Introduction to Machine Learning and Artificial Intelligence from Carnegie Mellon University (Course completed with A+ grade), December, 2022
+
+Industry Experience
+======
+* March 2025 - August 2025: AI Algorithm Research Intern
+  * Beijing Aishi Future Technology Co., Ltd.
 
 Project experience
 ======
@@ -95,9 +108,9 @@ Club experience
 
 Skills
 ======
-* Language: proficient in Python; competent in C/C++.
-* Computer Vision: Proficient in using the PyTorch framework, with the ability to reproduce mainstream deep learning algorithms such as diffusion models.
-* Tool: competent in Visio, Docker, Git.
+* Programming: Python, PyTorch, C/C++, Flink SQL, Next.js, FastAPI
+* AI/ML: Diffusion models, LLM-based agents, streaming data processing, computer vision
+* Tools: Docker, Git, Linux, Slurm, cloud deployment
 
 <!--
 Work experience
