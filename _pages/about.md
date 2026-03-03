@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am Songyang Gao, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) **(IEEE, ACM, AAAI, AAAS Fellow)**. I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
-My current research interests focus on **Agentic Systems** and **Streaming Systems**. I am researching and designing Agentic Systems for Large-Scale Data Tasks, including building a Streaming Agent Benchmark for Real-Time Data Pipelines. In addition, I am also interested in applications of Agentic Systems, such as intelligent agents for scientific research and computer use agents.
+My current research interests focus on **Agentic Systems** and **Streaming Systems**. I am designing Agentic Systems for Large-Scale Data Tasks, including building a Streaming Agent Benchmark for Real-Time Data Pipelines. In addition, I am also interested in applications of Agentic Systems, such as intelligent agents for scientific research and computer use agents.
 
 Previously, I worked on generative AI algorithms and their applications in computational imaging and intelligent medical imaging at [LIVE Lab, Nanchang University](https://www.labxing.com/lab/1018/home), advised by [Prof. Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/).
 
@@ -18,8 +18,6 @@ Previously, I worked on generative AI algorithms and their applications in compu
 **I am actively looking for Fall 2027 Ph.D. programs. Please feel free to contact me!**
 
 Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
-
-Let's be passionate!
 
 # NEWS
 ## Paper submitted to KDD 2026, February, 2026
