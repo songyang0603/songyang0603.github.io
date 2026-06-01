@@ -10,6 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About me （Update in 06.01）
+
 I am **Songyang Gao (高颂扬)**, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
 My current research interests focus on **Agentic Systems** and **Streaming Systems**. I am designing Agentic Systems for Large-Scale Data Tasks, including building a Streaming Agent Benchmark for Real-Time Data Pipelines. In addition, I am also interested in applications of Agentic Systems, such as intelligent agents for scientific research and computer use agents.
@@ -61,7 +63,7 @@ SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines (Under Review at I
 
 Yinghui Xia\*, **Songyang Gao\***, Hui Xiong (\*equal contribution) · Co-first Author
 
-- We propose SAB, the first systematic benchmark that transforms text-to-SQL tasks into streaming control problems for evaluating LLM-based controllers in production stream processing. It is built by converting text-to-SQL tasks from the Spider and BIRD benchmarks into streaming-native problems over real-time data pipelines.
+- We propose SAB, the first systematic benchmark that transforms text-to-SQL tasks into streaming control problems for evaluating LLM-based controllers in production stream processing.
 </div>
 </div>
 
