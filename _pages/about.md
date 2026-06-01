@@ -18,9 +18,9 @@ My current research interests focus on **Agentic Systems** and **Streaming Syste
 
 Previously, I worked on generative AI algorithms and their applications in computational imaging and intelligent medical imaging at [LIVE Lab, Nanchang University](https://www.labxing.com/lab/1018/home), advised by [Prof. Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/).
 
-You can find my publications on my [Google Scholar profile](https://scholar.google.com.hk/citations?user=1OyMQr0AAAAJ&hl=zh-CN). [Click here](files/CV_SongyangGao.pdf) to visit my CV, and [click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
-
 📫 **I am actively looking for Fall 2027 Ph.D. programs. Please feel free to contact me!**<br>
+
+[Click here](files/CV_SongyangGao.pdf) to visit my CV, and [click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
 Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
