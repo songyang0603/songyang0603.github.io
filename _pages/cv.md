@@ -109,7 +109,7 @@ Club experience
 Skills
 ======
 * Programming: Python, PyTorch, C/C++, Flink SQL, Next.js, FastAPI
-* AI/ML: Diffusion models, LLM-based agents, streaming data processing, computer vision
+* AI/ML: LLM fine-tuning, LLM-based agents, diffusion models, streaming data processing, computer vision
 * Tools: Docker, Git, Linux, Slurm, cloud deployment
 
 <!--

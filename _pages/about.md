@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me（Updated: 2026.03.02）👋"
+title: "About me（Updated: 2026.06.01）👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,9 +20,13 @@ Previously, I worked on generative AI algorithms and their applications in compu
 Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
 # NEWS
-## Paper submitted to KDD 2026, February, 2026
+## GoR preprint released on arXiv, May 2026
 
-Our paper "SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines" (Y. Xia\*, **S. Gao\***, H. Xiong, \*equal contribution) has been submitted to [KDD 2026](https://kdd2026.kdd.org/).
+My first-author paper "Graphs of Research: Citation Evolution Graphs as Supervision for Research Idea Generation" (**S. Gao\***, Y. Xia\*, S. Liu, H. Xiong, \*equal contribution) is now available on [arXiv (2605.14790)](https://arxiv.org/abs/2605.14790).
+
+## SAB under review at ICDE 2027, 2026
+
+Our paper "SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines" (Y. Xia\*, **S. Gao\***, H. Xiong, \*equal contribution) is under review at ICDE 2027.
 
 ## Participated in Singtel PIE Program, Singapore, December, 2025
 

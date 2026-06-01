@@ -1,0 +1,4 @@
+# 本地预览专用覆盖（仅 `jekyll build --config _config.yml,_config.dev.yml` 时生效）。
+# GitHub Pages 只读 _config.yml，不会用到这个文件，因此不影响线上站点。
+url: "http://localhost:4000"
+baseurl: ""
