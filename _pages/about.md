@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About me (Update in 06.01)
+# 👋 About me (Update on 06.01)
 
 I am **Songyang Gao (高颂扬)**, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
@@ -18,10 +18,9 @@ My current research interests focus on **Agentic Systems** and **Streaming Syste
 
 Previously, I worked on generative AI algorithms and their applications in computational imaging and intelligent medical imaging at [LIVE Lab, Nanchang University](https://www.labxing.com/lab/1018/home), advised by [Prof. Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/).
 
-You can find my publications on my [Google Scholar profile](https://scholar.google.com.hk/citations?user=1OyMQr0AAAAJ&hl=zh-CN).
+You can find my publications on my [Google Scholar profile](https://scholar.google.com.hk/citations?user=1OyMQr0AAAAJ&hl=zh-CN). [Click here](files/CV_SongyangGao.pdf) to visit my CV, and [click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
 📫 **I am actively looking for Fall 2027 Ph.D. programs. Please feel free to contact me!**<br>
-[Click here](files/CV_SongyangGao.pdf) to visit my CV, and [click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
 Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
