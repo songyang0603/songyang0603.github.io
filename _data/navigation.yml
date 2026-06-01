@@ -1,25 +1,25 @@
-# main links links
+# main links
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
-    url: /publications/
+    url: "/#-publications"
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "中文"
-    url: /chinese/
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Skills"
+    url: "/#-skills"
