@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About me (Update on 06.01)
+# 👋 About me (Update on 08.25)
 
 I am **Songyang Gao (高颂扬)**, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
@@ -27,7 +27,7 @@ Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 # 🔥 News
 
 - *2026.05*: &nbsp;📄 First-author paper "Graphs of Research" (GoR) is now available on [arXiv](https://arxiv.org/abs/2605.14790).
-- *2026.02*: &nbsp;📝 SAB (co-first author) is under review at ICDE 2027.
+- *2026.02*: &nbsp;📝 SAB (co-first author) is under review at VLDB 2027.
 - *2025.12*: &nbsp;🛡️ Served as group leader in the Singtel PIE Program (Singapore), where we proposed SmartShield, a multimodal anti-fraud system.
 - *2025.09*: &nbsp;🎓 Started my MPhil at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. Hui Xiong.
 - *2025.06*: &nbsp;🏫 Graduated from [Nanchang University](https://www.ncu.edu.cn/); my undergraduate thesis was rated Excellent.
@@ -55,10 +55,10 @@ Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2027</div><img src='images/sab.png' alt="SAB Streaming Agent Benchmark" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2027</div><img src='images/sab.png' alt="SAB Streaming Agent Benchmark" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines (Under Review at ICDE 2027)
+SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines (Under Review at VLDB 2027)
 
 Yinghui Xia\*, **Songyang Gao\***, Hui Xiong (\*equal contribution) · Co-first Author
 
