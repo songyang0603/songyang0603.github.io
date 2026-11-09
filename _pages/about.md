@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About me (Update on 08.25)
+# 👋 About me (Update on 11.09)
 
-I am **Songyang Gao (高颂扬)**, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
+I am **Songyang Gao (高颂扬)**, a second-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (**IEEE / ACM / AAAI / AAAS Fellow**). I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
 My current research interests focus on **Agentic Systems** and **Streaming Systems**. I am designing Agentic Systems for Large-Scale Data Tasks, including building a Streaming Agent Benchmark for Real-Time Data Pipelines. In addition, I am also interested in applications of Agentic Systems, such as intelligent agents for scientific research and computer use agents.
 
@@ -26,8 +26,8 @@ Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 
 # 🔥 News
 
+- *2026.11*: &nbsp;📝 First-author paper "StreamSQLBench" is under review at VLDB 2027.
 - *2026.05*: &nbsp;📄 First-author paper "Graphs of Research" (GoR) is now available on [arXiv](https://arxiv.org/abs/2605.14790).
-- *2026.02*: &nbsp;📝 SAB (co-first author) is under review at VLDB 2027.
 - *2025.12*: &nbsp;🛡️ Served as group leader in the Singtel PIE Program (Singapore), where we proposed SmartShield, a multimodal anti-fraud system.
 - *2025.09*: &nbsp;🎓 Started my MPhil at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), advised by Prof. Hui Xiong.
 - *2025.06*: &nbsp;🏫 Graduated from [Nanchang University](https://www.ncu.edu.cn/); my undergraduate thesis was rated Excellent.
@@ -55,14 +55,14 @@ Email: [sgao068@connect.hkust-gz.edu.cn](mailto:sgao068@connect.hkust-gz.edu.cn)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2027</div><img src='images/sab.png' alt="SAB Streaming Agent Benchmark" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2027</div><img src='images/sab.png' alt="StreamSQLBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SAB: A Streaming Agent Benchmark for Real-Time Data Pipelines (Under Review at VLDB 2027)
+StreamSQLBench: A Streaming Agent Benchmark for Real-Time Data Pipelines (Under Review at VLDB 2027)
 
-Yinghui Xia\*, **Songyang Gao\***, Hui Xiong (\*equal contribution) · Co-first Author
+**Songyang Gao\***, Yinghui Xia\*, Hui Xiong (\*equal contribution) · First Author
 
-- We propose SAB, the first systematic benchmark that transforms text-to-SQL tasks into streaming control problems for evaluating LLM-based controllers in production stream processing.
+- We build StreamSQLBench, an executable benchmark of 402 streaming SQL tasks over 51 databases in seven domains. A containerized Kafka and Flink harness replays events in event-time order and checks each query by its final result. We also propose StreamSQLAgent, a multi-agent framework that reaches 79.60% accuracy, compared with 68.16% for the strongest baseline Spider-Agent, while using one-sixth of its tokens.
 </div>
 </div>
 
